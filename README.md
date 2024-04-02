@@ -4,10 +4,10 @@
 
 Estou no curso de desenvolvimento web porque quero mudar de carreira.
 
-### Meu primeir codigo 
+### Meu primeiro codigo 
 
-'''
+'
         <div>
         <p>Olha a pegadinha</p>
         </div>
-'''
+'
