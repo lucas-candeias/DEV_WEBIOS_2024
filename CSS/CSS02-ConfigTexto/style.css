@@ -1,0 +1,28 @@
+
+body{
+    /* red, green, blue */
+    background-color:#5588b5;
+    font-family: "Roboto Mono", monospace;
+    /* background-image: url('../images/solo-leveling-anime-wa1ifpog14hve9ft.jpg');
+    background-size: cover; /* Ajusta o tamanho da imagem para cobrir todo o elemento 
+    color: #fff9ff;         */
+    
+}
+
+h1 {
+    background-color: :#5588b5;
+    /* color: #fff9ff; */
+    font-family: "Roboto Mono", monospace;
+}
+
+p{
+    font-size: 2rem;
+}
+img{
+    height: 650px;
+    right: 900px;
+    border-radius: 10%;
+    padding-inline: 100px;
+    display: block;
+    margin: auto;
+}
