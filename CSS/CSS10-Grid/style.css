@@ -1,0 +1,10 @@
+#container{
+    display: grid;
+    grid-template-columns: repeat(9, auto);
+}
+
+.itens{
+    border: 2px solid black;
+    background-color: blanchedalmond;
+    padding: 3px;
+}
