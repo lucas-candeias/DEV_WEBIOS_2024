@@ -16,17 +16,29 @@
 
 // console.error(PI)
 
-let nota1 = 10
-let nota2 = 0
-let nota3 = 8
-let nota4 = 7
-let media = nota1 + nota2 + nota3 + nota4
-let notaFinal = media / 4
+// let NAN - 0 /0;
 
-console.log(notaFinal)
+// console.log(NAN)
+
+console.clear()
+
+let corinthians = "Corinthians melhor time!!!"
+
+console.log(corinthians)
+
+console.clear()
+
+let IOS = "Instituto da oportunidade social"
+
+console.log("Instito " + "da " + "Oportunidade " + "Social")
 
 
+console.clear()
 
+let num1 = 1
+let num2 = "1"
+
+console.log(num1 == num2)
 
 
 
