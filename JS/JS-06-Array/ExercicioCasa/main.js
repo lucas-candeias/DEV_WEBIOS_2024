@@ -5,9 +5,9 @@ let iRay = ["HTML", 1993,"CSS", 1996, "Bootstrap", 2011, "JS" , 1995, "React", 2
 console.log(iRay);
 console.log(iRay.length);
 console.log(iRay[6]);
-let stringIray = iRay.join(", ");
-console.log(stringIray);
-console.log(typeof stringIray);
+let mudanca = iRay.toString()
+console.log(mudanca);
+console.log(typeof mudanca);
 console.log(iRay.join(" / "));
 let shIray = iRay.unshift("IOS");
 console.log(iRay);
